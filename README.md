@@ -51,10 +51,6 @@ Contributions to this project are welcome! Feel free to submit bug reports, feat
 - Special thanks to the developers of the facial recognition libraries used in this project.
 - Project made by Madhavv Arul, Saran Anbu and Jabin Joshua
   
-## Contact
 
-For any inquiries or support, please contact saranmass234@gmail.com.
-
----
 
 Enjoy peace of mind with the Raspberry Pi Face Recognition CCTV Camera!
